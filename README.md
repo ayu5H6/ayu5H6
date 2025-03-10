@@ -23,7 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ayu5H6&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Visitor Code
+### Visitor Count
 <div align="center">
   <img src="https://profile-counter.glitch.me/{ayu5H6}/count.svg" alt="ayu5H6 :: Visitor's Count">
 </div>
