@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔍Exploring the MERN stack and developing full-stack web applications using MongoDB, Express.js, React, and Node.js.<br>👥 Looking to collaborate on React.js, Next.js, or AI/ML projects—always open to learning and building cool stuff!<br>🤝 Need help with getting hands-on experience in  AI/ML.<br>
+🔍Exploring the MERN stack and developing full-stack web applications using MongoDB, Express.js, React, and Node.js.
 
 
 ## 🌐 Socials:
